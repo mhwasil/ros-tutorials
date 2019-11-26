@@ -5,3 +5,5 @@ Informasi lebih jauh silahkan buka www.open-robotik.org.
   * Topics
   * Services
   * Custom messages
+
+* Kunjungi youtube channel [Open Robotik Indonesia](https://www.youtube.com/channel/UCVXyfaXmRAsHZ6cr3sPwk1w)
