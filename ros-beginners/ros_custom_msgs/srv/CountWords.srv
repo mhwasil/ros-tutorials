@@ -1,0 +1,5 @@
+std_msgs/String words
+std_msgs/Bool count_articles
+---
+std_msgs/Int32 num_words
+std_msgs/Int32 num_articles
