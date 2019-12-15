@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>roscpp_simple_service_client</name>
+  <version>0.0.0</version>
+  <description>The roscpp_simple_service_client package</description>
+
+  <author email="mwasil@outlook.co.id">Mohammad Wasil</author>
+  <maintainer email="mwasil@outlook.co.id">Mohammad Wasil</maintainer>
+
+  <license>GPL-3.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>ros_custom_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  
+  <build_export_depend>ros_custom_msgs</build_export_depend>
+  <build_export_depend>roscpp</build_export_depend>
+  
+  <exec_depend>ros_custom_msgs</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+
+</package>
